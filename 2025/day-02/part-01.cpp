@@ -7,7 +7,7 @@
 
 using namespace std;
 
-std::ifstream fin;
+ifstream fin;
 
 int digitCount(long long num) {
     int count = 0;
